@@ -66,6 +66,8 @@ Frameworks to use as a part of making automated code changes in support of needs
 - CVS - arguably the first modern version control system
 - RCS / SCCS - old school
 
+### issue tracking
+- [Linear](https://linear.app)
 ### rules engine
 - drools
 - [iLog](https://www.sparklinglogic.com/smarts-decision-manager/)
